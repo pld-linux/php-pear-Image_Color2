@@ -37,11 +37,12 @@ In PEAR status of this package is: %{_status}.
 Klasa ta dostarcza metod do konwersji i mieszania kolorów. Aktualnie
 wspierane modele kolorów:
 - CMYK - wykorzystywane w drukowaniu,
-- skala szaro¶ci ,
-- hex - kolory RGB przedstawione szesanstkowo, n.p. #abcdef,
+- skala szaro¶ci,
+- hex - kolory RGB przedstawione szesnastkowo, np. #abcdef,
 - hsl - wykorzystywane w CSS3 do definiowania kolorów,
-- hsv - wykorzystywane w Photoshop oraz innych programach graficznych,
-- s³owne - s³owne okreslenia dla warto¶ci RGB, np. 'black' (czarny),
+- hsv - wykorzystywane w Photoshopie oraz innych programach
+  graficznych,
+- s³owne - s³owne okre¶lenia dla warto¶ci RGB, np. 'black' (czarny),
   'khaki'
 - websafehex - tak jak hex, ale ograniczone do kolorów bezpiecznych
   dla stron internetowych
