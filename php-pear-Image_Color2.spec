@@ -5,7 +5,7 @@
 %define		_pearname	Image_Color2
 
 Summary:	%{_pearname} - Color conversion and mixing for PHP5
-Summary(pl):	%{_pearname} - Konwersja i mieszanie kolor體 w PHP5
+Summary(pl.UTF-8):   %{_pearname} - Konwersja i mieszanie kolor贸w w PHP5
 Name:		php-pear-%{_pearname}
 Version:	0.1.4
 Release:	1
@@ -33,18 +33,18 @@ models:
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasa ta dostarcza metod do konwersji i mieszania kolor體. Aktualnie
-wspierane modele kolor體:
+%description -l pl.UTF-8
+Klasa ta dostarcza metod do konwersji i mieszania kolor贸w. Aktualnie
+wspierane modele kolor贸w:
 - CMYK - wykorzystywane w drukowaniu,
-- skala szaro禼i,
+- skala szaro艣ci,
 - hex - kolory RGB przedstawione szesnastkowo, np. #abcdef,
-- hsl - wykorzystywane w CSS3 do definiowania kolor體,
+- hsl - wykorzystywane w CSS3 do definiowania kolor贸w,
 - hsv - wykorzystywane w Photoshopie oraz innych programach
   graficznych,
-- s硂wne - s硂wne okre秎enia dla warto禼i RGB, np. 'black' (czarny),
+- s艂owne - s艂owne okre艣lenia dla warto艣ci RGB, np. 'black' (czarny),
   'khaki'
-- websafehex - tak jak hex, ale ograniczone do kolor體 bezpiecznych
+- websafehex - tak jak hex, ale ograniczone do kolor贸w bezpiecznych
   dla stron internetowych
 
 Ta klasa ma w PEAR status: %{_status}.
