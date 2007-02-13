@@ -5,7 +5,7 @@
 %define		_pearname	Image_Color2
 
 Summary:	%{_pearname} - Color conversion and mixing for PHP5
-Summary(pl.UTF-8):   %{_pearname} - Konwersja i mieszanie kolorów w PHP5
+Summary(pl.UTF-8):	%{_pearname} - Konwersja i mieszanie kolorów w PHP5
 Name:		php-pear-%{_pearname}
 Version:	0.1.4
 Release:	1
