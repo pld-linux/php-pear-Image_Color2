@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		alpha
 %define		_pearname	Image_Color2
 Summary:	%{_pearname} - Color conversion and mixing for PHP5
